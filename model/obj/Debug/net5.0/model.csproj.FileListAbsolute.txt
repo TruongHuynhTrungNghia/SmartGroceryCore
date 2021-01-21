@@ -1,0 +1,15 @@
+C:\Users\elvis.truong\Desktop\core\model\bin\Debug\net5.0\model.deps.json
+C:\Users\elvis.truong\Desktop\core\model\bin\Debug\net5.0\model.runtimeconfig.json
+C:\Users\elvis.truong\Desktop\core\model\bin\Debug\net5.0\model.runtimeconfig.dev.json
+C:\Users\elvis.truong\Desktop\core\model\bin\Debug\net5.0\model.dll
+C:\Users\elvis.truong\Desktop\core\model\bin\Debug\net5.0\ref\model.dll
+C:\Users\elvis.truong\Desktop\core\model\bin\Debug\net5.0\model.pdb
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\model.csprojAssemblyReference.cache
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\model.AssemblyInfoInputs.cache
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\model.AssemblyInfo.cs
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\model.csproj.CoreCompileInputs.cache
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\model.dll
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\ref\model.dll
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\model.pdb
+C:\Users\elvis.truong\Desktop\core\model\obj\Debug\net5.0\model.genruntimeconfig.cache
